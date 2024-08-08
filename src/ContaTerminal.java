@@ -28,6 +28,10 @@ public class ContaTerminal {
         this.agency = agency;
     }
 
+    public void setAccountNumber(String accountNumber) {
+        this.agency = agency;
+    }
+
     public int getAccountNumber() {
         return accountNumber;
     }
